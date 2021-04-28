@@ -1,1 +1,1 @@
-print(hello stoolz)
+print(hello stool)
